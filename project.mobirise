@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 15,
+    "uniqCompNum": 20,
     "versionPublish": "4.8.10"
   },
   "pages": {
@@ -131,8 +131,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
+            "inverse": true,
+            "imageSize": "62",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -152,7 +152,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/ip-surveillance-1057x454.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -181,7 +184,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "64",
+            "imageSize": "61",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -201,10 +204,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fireext.gif",
+              "src": "@PROJECT_PATH@/assets/images/door-with-various-locks-ktsdesign-600x320.jpg",
               "link": "",
-              "alt": "Automation",
-              "title": "Automation"
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -225,7 +228,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-b"
+          "_anchor": "msg-box5-f"
         },
         {
           "_params": {
@@ -233,7 +236,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "64",
+            "imageSize": "61",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -253,10 +256,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fireext.gif",
+              "src": "@PROJECT_PATH@/assets/images/guns-661x496.jpg",
               "link": "",
-              "alt": "Automation",
-              "title": "Automation"
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -277,7 +280,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-8"
+          "_anchor": "msg-box5-g"
         },
         {
           "_params": {
@@ -285,7 +288,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "70",
+            "imageSize": "68",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -305,10 +308,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fireext.gif",
+              "src": "@PROJECT_PATH@/assets/images/outdoor-1-paintball-brno-1400x700.jpg",
               "link": "",
-              "alt": "Automation",
-              "title": "Automation"
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -329,7 +332,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-9"
+          "_anchor": "msg-box5-h"
         },
         {
           "_params": {
@@ -357,10 +360,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fireext.gif",
+              "src": "@PROJECT_PATH@/assets/images/archery-hunting-bow-736x491.jpg",
               "link": "",
-              "alt": "Automation",
-              "title": "Automation"
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -375,13 +378,13 @@
             }
           },
           "title": "Archery",
-          "text": "Gate Motors, Garage Door Motors, Receivers &amp; Transmitters",
+          "text": "Bows, Arrows, Crossbow Bolts, Pistol Crossbows, Slingshots",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-a"
+          "_anchor": "msg-box5-i"
         },
         {
           "_params": {
@@ -389,7 +392,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "64",
+            "imageSize": "66",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -411,8 +414,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/fireext.gif",
               "link": "",
-              "alt": "Automation",
-              "title": "Automation"
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -433,7 +436,7 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-c"
+          "_anchor": "msg-box5-j"
         },
         {
           "_params": {
@@ -463,9 +466,11 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "src": "@PROJECT_PATH@/assets/images/winchesterlogo1-204x128.png",
                     "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
@@ -473,9 +478,11 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "src": "@PROJECT_PATH@/assets/images/zklogo-236x118.png",
                     "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
@@ -486,6 +493,18 @@
                     "src": "@PROJECT_PATH@/assets/images/3.png",
                     "link": "https://mobirise.com",
                     "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/bbllogo-200x100.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
@@ -493,9 +512,11 @@
                 "active": true,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "src": "@PROJECT_PATH@/assets/images/dahualogo-283x170.png",
                     "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
@@ -503,19 +524,11 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "src": "@PROJECT_PATH@/assets/images/fireballsalogo-256x144.png",
                     "link": "https://mobirise.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobirise.com",
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               }
