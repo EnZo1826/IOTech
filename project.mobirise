@@ -24,15 +24,15 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.8.10"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "IOTech Surveillance",
+        "meta_descr": "Namibia's 1 Stop Security Shop",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
