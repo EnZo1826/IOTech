@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#e25041",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
@@ -120,7 +121,7 @@
           },
           "title": "AUTOMATION",
           "text": "Gate Motors, Garage Door Motors, Receivers &amp; Transmitters",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/automation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/automation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -172,7 +173,7 @@
           },
           "title": "Surveillance",
           "text": "Building facilities face similar challenges in fulfilling security, comfort, and management efficiency demands. ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/cctv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/cctv\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -224,7 +225,7 @@
           },
           "title": "Safes &amp; Locks",
           "text": "Safes, Pad Locks, Door Locks &amp; Electric Locks",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/bbl-security-products\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/bbl-security-products\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -276,7 +277,7 @@
           },
           "title": "Air Rifles &amp; Guns",
           "text": "Assorted Air Rifles &amp; Pistols with Accessories",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/air-rifles-guns\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/air-rifles-guns\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -328,7 +329,7 @@
           },
           "title": "Paintballing",
           "text": "Paintball Markers, Kits, Goggles &amp; CO2 Canisters",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/paintballing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/paintballing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -380,7 +381,7 @@
           },
           "title": "Archery",
           "text": "Bows, Arrows, Crossbow Bolts, Pistol Crossbows, Slingshots",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/archery\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/archery\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -432,7 +433,7 @@
           },
           "title": "Fire Fighting",
           "text": "Assorted Fire Extinguishers &amp; Fireballs",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/fire-fighting\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/fire-fighting\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -484,7 +485,7 @@
           },
           "title": "Electric Fencing",
           "text": "Foot Pigtails, Poliwire, Energizers &amp; much more",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.iotechnam.com/surveillance-products/electric-fencing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.iotechnam.com/surveillance-products/electric-fencing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -537,7 +538,7 @@
           },
           "title": "Self Defence",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
