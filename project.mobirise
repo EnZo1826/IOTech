@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -980,7 +980,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1000,7 +1000,32 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-11"
+          "_anchor": "social-buttons1-11",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"213\" style=\"background-color: rgb(255, 255, 255); padding-top: 90px; padding-bottom: 120px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"21\">SHARE THIS PAGE!</h3>\n                <div>\n\n                  <div class=\"mbr-social-likes\" data-counters=\"false\">\n                    <span class=\"btn btn-social facebook\" title=\"Share link on Facebook\">\n                        <i class=\"socicon socicon-facebook\"></i>\n                    </span>\n                    <span class=\"btn btn-social twitter\" title=\"Share link on Twitter\">\n                        <i class=\"socicon socicon-twitter\"></i>\n                    </span>\n                    <span class=\"btn btn-social plusone\" title=\"Share link on Google+\">\n                        <i class=\"socicon socicon-googleplus\"></i>\n                    </span>\n                    \n                    \n                  </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e25041",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 IOTech Surveillance",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13"
         }
       ]
     }
