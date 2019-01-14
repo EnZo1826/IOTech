@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-01-03_1143",
-    "currentPage": "page3.html",
+    "currentPage": "safeslocks.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1528,7 +1528,7 @@
         }
       ]
     },
-    "page3.html": {
+    "safeslocks.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Safes_Locks",
